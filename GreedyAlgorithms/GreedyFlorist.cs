@@ -1,4 +1,4 @@
-﻿namespace DefaultNamespace
+﻿﻿namespace DefaultNamespace
 {
     public class GreedyFlorist
     {
