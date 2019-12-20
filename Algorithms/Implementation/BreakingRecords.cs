@@ -2,7 +2,7 @@
 {
     /*
      * Link to challenge:
-     *  shorturl.at/ilpLN
+     *  https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
      */
     public class BreakingRecords
     {

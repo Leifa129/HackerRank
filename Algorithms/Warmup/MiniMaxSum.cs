@@ -1,7 +1,7 @@
 ﻿﻿namespace DefaultNamespace
 {
     /*
-     * https://www.hackerrank.com/challenges/mini-max-sum/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+     * https://www.hackerrank.com/challenges/mini-max-sum/problem
      */
     public class MiniMaxSum
     {

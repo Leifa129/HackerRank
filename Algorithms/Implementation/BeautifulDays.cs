@@ -2,7 +2,7 @@
 {
     /*
      * Link to challenge:
-     * shorturl.at/qxMP9
+     * https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
      */
     public class BeautifulDays
     {

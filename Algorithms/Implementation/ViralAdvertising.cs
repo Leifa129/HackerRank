@@ -2,7 +2,7 @@
 {
     /*
      * Link to challenge:
-     * shorturl.at/sO278
+     * https://www.hackerrank.com/challenges/strange-advertising/problem
      */
     public class ViralAdvertising
     {

@@ -2,7 +2,7 @@
 {
     /*
      * Link to challenge:
-     * shorturl.at/ahiCJ
+     * https://www.hackerrank.com/challenges/between-two-sets/problem
      */
     public class BetweenTwoSets
     {

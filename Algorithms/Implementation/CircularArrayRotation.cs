@@ -2,7 +2,7 @@
 {
     /*
      * Link to challenge:
-     * shorturl.at/cpO07
+     * https://www.hackerrank.com/challenges/circular-array-rotation/problem?h_r=internal-search
      * 
      */
     public class CircularArrayRotation

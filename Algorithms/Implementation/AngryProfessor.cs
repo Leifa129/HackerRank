@@ -2,7 +2,7 @@
 {
     /*
      * Link to challenge:
-     * https://www.hackerrank.com/challenges/angry-professor/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+     * https://www.hackerrank.com/challenges/angry-professor/problem
      */
     
     public class AngryProfessor

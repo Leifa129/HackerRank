@@ -2,7 +2,7 @@
 {
    /*
     * Link to challenge
-    * https://www.hackerrank.com/challenges/plus-minus/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+    * https://www.hackerrank.com/challenges/plus-minus/problem
     */
 
 public class PlusMinus
