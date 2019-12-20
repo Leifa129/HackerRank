@@ -1,5 +1,9 @@
 ﻿namespace DefaultNamespace
 {
+    /*
+     * Link to challenge:
+     * https://www.hackerrank.com/challenges/grading/problem
+     */
     public class GradingStudents
     {
         /*
