@@ -3,23 +3,25 @@
     /*
      * Link to challenge:
      * shorturl.at/cpO07
+     * 
      */
     public class CircularArrayRotation
     {
         // Complete the circularArrayRotation function below.
         static int[] circularArrayRotation(int[] a, int k, int[] queries) {
-
-            for(int j = 0; j < k; j++){
-                int temp = a[a.Length - 1];
-                for(int i = a.Length - 1; i >= 0; i--){
-                    if(i == 0){
-                        a[i] = temp;
-                    }
-                    else {
-                        a[i] = a[i - 1];
-                    }
-                }
+            int[] temp = new int[a.Length];
+            k = k % a.Length;
+      
+            int j = 0;
+            for(int i = a.Length - k; i < a.Length; i++){
+                temp[j++] = a[i];
             }
+            for (int i = 0; i < a.Length - k; i++) {
+                temp[j++] = a[i];
+            }
+
+            a = temp;
+    
 
 
             int[] result = new int[queries.Length];
